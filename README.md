@@ -58,5 +58,10 @@ python3 -m pytest -q
 
 ---
 
+## Teacher Pack（私有）
+- Teacher Pack（投影片大綱、解答、評分表、老師講義）已獨立為私有 repo，避免學生直接取得解答。
+- 如需存取，請由課程教師/助教向維護者申請權限。
+- Repo：https://github.com/13022-maker/openclaw-course-8weeks-teacher（需要權限）
+
 ## License
 MIT（見 `LICENSE`）
