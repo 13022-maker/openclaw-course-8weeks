@@ -1,0 +1,4 @@
+這是一段範例文字。
+這段文字用來做行數、字數、byte 數統計。
+Hello world.
+OpenClaw course.

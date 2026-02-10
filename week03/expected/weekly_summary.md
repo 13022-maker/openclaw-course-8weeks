@@ -1,0 +1,16 @@
+# 週摘要
+
+## 本週筆記
+- 第1天：CLI 參數
+- 第2天：JSON
+
+## 統計
+- 篇數：2
+- 總字數：約 71
+
+## 每篇摘要
+### 第1天：CLI 參數
+今天學會用 argparse 解析 --in/--out。覺得把 I/O 分開很有幫助。
+
+### 第2天：JSON
+練習 json.dumps / json.loads，並學到 ensure_ascii=False。

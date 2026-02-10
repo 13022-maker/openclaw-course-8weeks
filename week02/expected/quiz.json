@@ -1,0 +1,17 @@
+{
+  "title": "Python CLI 入門小測",
+  "questions": [
+    {
+      "q": "下列哪個是 Python 常用的 CLI 參數解析模組？",
+      "choices": ["requests", "argparse", "numpy", "pygame"],
+      "answer": 1,
+      "explain": "argparse 是 Python 標準庫，用來解析命令列參數。"
+    },
+    {
+      "q": "設計可測試的程式時，以下哪個做法較佳？",
+      "choices": ["把所有程式都寫在 main 裡", "把 I/O 跟邏輯混在一起", "把 I/O 與邏輯分離", "完全不寫函式"],
+      "answer": 2,
+      "explain": "I/O 與邏輯分離，能讓你用固定輸入測試邏輯。"
+    }
+  ]
+}

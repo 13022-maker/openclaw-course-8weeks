@@ -1,0 +1,5 @@
+{
+  "attendance": "../week04/data/attendance.csv",
+  "grades": "../week04/data/grades.csv",
+  "out": "weekly_report.md"
+}
